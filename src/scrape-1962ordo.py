@@ -4,7 +4,7 @@ import html2text
 import requests
 
 BASE_URL = 'https://1962ordo.today/day/octave-day-nativity-lord-2-2/'
-MAX_DAYS = 5
+MAX_DAYS = 366
 
 class DayContents:
     def __init__(self, html):
