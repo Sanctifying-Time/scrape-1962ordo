@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # make sure we don't save output files to git
-.csv
+*.csv
